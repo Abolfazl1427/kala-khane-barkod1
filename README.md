@@ -1,10 +1,35 @@
-# kala-khane-barkod1
-<!DOCTYPE html>
+
+  text-align: center;
+  padding: 10px;
+}
+
+.top-barcode img {
+  width: 100px;
+  height: 100px;
+  object-fit: contain;
+}<div class="top-barcode">
+  <img src="images/barcode.png" alt="بارکد کالا خانه">
+</div><div class="top-barcode">
+  <img src="images/barcode.png" alt="بارکد کالا خانه">
+</div>
+<img src="images/barcode.png" alt="لوگوی کالا خانه بارکد" width="200">
+<.logo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.logo img {
+  width: 60px;
+  height: 60px;
+  object-fit: contain;
+}>
 <html lang="fa" dir="rtl">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>کالا خانه بارکد | فروشگاه لوازم خانگی</title>
+<meta name="description" content="فروشگاه کالا خانه بارکد، لوازم خانگی و برقی در خوزستان، صیدون، فلکه شهدا">
 <style>
 *{box-sizing:border-box}
 body{margin:0;font-family:Tahoma,Arial;background:#f2f6fa;color:#142f46}
@@ -83,7 +108,7 @@ footer{background:#12344f;color:white;text-align:center;padding:25px;line-height
 <section class="info" id="about">
 <h2>درباره کالا خانه بارکد</h2>
 <p>هدف ما معرفی محصولات و ارائه خدمات مناسب به مشتریان عزیز است.</p>
-<p><b>مدیریت: داورپناه</b></p>
+<p><b></b></p>
 </section>
 
 <section class="info" id="contact">
@@ -107,6 +132,5 @@ footer{background:#12344f;color:white;text-align:center;padding:25px;line-height
 تمام حقوق محفوظ است.
 </footer>
 
-</body>
-</html>
+</body
 
