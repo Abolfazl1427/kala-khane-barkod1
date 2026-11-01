@@ -113,33 +113,7 @@ document.getElementById("siteQR").src=
 </div>
 </section>
 
-<!-- گالری ماشین لباسشویی -->
-<section class="info" id="washing-gallery">
-<h2>گالری ماشین لباسشویی</h2>
-<div class="gallery">
-<img src="images/washing1.jpg" alt="ماشین لباسشویی">
-<img src="images/washing2.jpg" alt="ماشین لباسشویی">
-<img src="images/washing3.jpg" alt="ماشین لباسشویی">
-</div>
-</section>
 
-<!-- گالری تلویزیون -->
-<section class="info" id="tv-gallery">
-<h2>گالری تلویزیون و صوتی</h2>
-<div class="gallery">
-<img src="images/tv1.jpg" alt="تلویزیون">
-<img src="images/tv2.jpg" alt="تلویزیون">
-<img src="images/tv3.jpg" alt="تلویزیون">
-</div>
-</section>
-
-<!-- گالری پتو و تشک -->
-<section class="info" id="bedding-gallery">
-<h2>گالری پتو و تشک</h2>
-<div class="gallery">
-<img src="images/bedding1.jpg" alt="پتو و تشک">
-<img src="images/bedding2.jpg" alt="پتو و تشک">
-<img src="images/bedding3.jpg" alt="پتو و تشک">
 </div>
 </section>
 
