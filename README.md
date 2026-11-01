@@ -1,4 +1,4 @@
-
+gallery_barkod 
   text-align: center;
   padding: 10px;
 }
