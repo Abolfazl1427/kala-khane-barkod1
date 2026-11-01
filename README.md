@@ -1,5 +1,5 @@
 
-<!DOCTYPE html>
+<!خوش آمدید>
 <html lang="fa" dir="rtl">
 <head>
 <meta charset="UTF-8">
