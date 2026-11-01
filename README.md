@@ -76,42 +76,23 @@ footer{background:#12344f;color:white;text-align:center;padding:20px}
 
 <section class="info" id="about">
 <h2>درباره فروشگاه</h2>
-<p>هدف ما معرفی محصولات و ارائه خدمات مناسب به مشتریان عزیز است.</p>
-<p>مدیریت: داورپناه</p>
+<p>هدف ما معرفی محصولات و ارائه خدمات مناسب به مشتریان عزیز است.</p>خوش آمدید</p>
 </section>
 
 <section class="info" id="contact">
 <h2>تماس با فروشگاه</h2>
 <p>📍 خوزستان، صیدون، فلکه شهدا</p>
 <p>📞 09011889181</p>
-<p>مدیریت: داورپناه</p>
+<p>مدیریت: خانم داورپناه</p>
 <p><a href="https://www.instagram.com/gallery_barkod/">اینستاگرام: gallery_barkod</a></p>
 <p><a href="https://wa.me/989011889181">🟢 ارتباط در واتساپ</a></p>
 </section>
 
 <footer>
 <p>کالا خانه بارکد</p>
-<p>طراحی و مدیریت: داورپناه</p>
+<p>طراحی و مدیریت: ابوالفضل داورپناه</p>
 <p>تمام حقوق محفوظ است.</p>
-</footer>
 
-<script>
-const address="https://abolfazl1427.github.io/kala-khane-barkod1/";
-document.getElementById("siteQR").src=
-"https://quickchart.io/qr?size=200&text="+encodeURIComponent(address);
-</script>
-
-</body>
-</html>
-<!-- گالری لوازم آشپزخانه -->
-<section class="info" id="kitchen-gallery">
-<h2>گالری لوازم آشپزخانه</h2>
-<div class="gallery">
-<img src="images/kitchen1.jpg" alt="محصول آشپزخانه">
-<img src="images/kitchen2.jpg" alt="محصول آشپزخانه">
-<img src="images/kitchen3.jpg" alt="محصول آشپزخانه">
-</div>
-</section>
 
 
 </div>
