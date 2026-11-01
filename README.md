@@ -41,7 +41,10 @@ footer{background:#12344f;color:white;text-align:center;padding:20px}
 <a href="#categories">محصولات</a>
 <a href="#about">درباره ما</a>
 <a href="#contact">تماس با ما</a>
-</nav>
+</nav><p>
+  📞 شماره تماس:
+  <a href="tel:09011889181">09011889181</a>
+</p>
 
 <section class="hero" id="home">
 <h2>به کالا خانه بارکد خوش آمدید</h2>
