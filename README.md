@@ -6,6 +6,9 @@ document.getElementById("siteQR").src =
   <img src="images/barcode.png" alt="بارکد کالا خانه">
 </div><div class="top-barcode">
   <img src="images/barcode.png" alt="بارکد کالا خانه">
+</div> <div class="qr-box">
+  <img id="siteQR" alt="QR Code کالا خانه بارکد">
+  <p>برای ورود به سایت اسکن کنید</p>
 </div>
 <img src="images/barcode.png" alt="لوگوی کالا خانه بارکد" width="200">
 <.logo {
