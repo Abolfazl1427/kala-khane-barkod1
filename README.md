@@ -1,11 +1,6 @@
-gallery_barkod 
-  text-align: center;
-  padding: 10px;
-}
-
-.top-barcode img {
-  width: 100px;
-  height: 100px;
+document.getElementById("siteQR").src =
+  "https://quickchart.io/qr?size=200&text=" +
+  encodeURIComponent("https://abolfazl1427.github.io/kala-khane-barkod1/");
   object-fit: contain;
 }<div class="top-barcode">
   <img src="images/barcode.png" alt="بارکد کالا خانه">
