@@ -1,4 +1,4 @@
-
+<img src="images/barcode.png" alt="لوگوی کالا خانه بارکد" width="150">
 <!DOCTYPE html>
 <html lang="fa" dir="rtl">
 <head>
